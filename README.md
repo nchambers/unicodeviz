@@ -6,7 +6,7 @@ The original repo has disappeared off of the Web, but we give credit to the orig
 
 Please send image fixes and updates as you discover them so we can keep this repository up to date.
 
-## Original authors
+## Updates
 
 * Updates by Nate Chambers
 
